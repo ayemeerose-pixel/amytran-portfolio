@@ -1,0 +1,2514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20260928T020318" id="b3d9ac55-0090-4b0c-b7f3-2efc8362f065">
+    <XRef DateTime="20260927T211614" id="31eebf07-025b-4252-816e-1747d15525b1"/>
+    <XRef DateTime="20260927T224513" id="87ff10b2-2ca7-45b1-97a1-5a9f17d174ea"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Outline 1" id="a081e3ae-d36e-4e3d-849a-31918bfc749c">
+      <Text>Act 1</Text>
+    </Paragraph>
+    <Paragraph Type="Summary" id="77b85cc0-f437-4d1e-b091-9a6673da3a5d">
+      <Text>Building context of their lives and routines and the goals Rye has set with indicators that his mom is sick and not doing anything about it</Text>
+    </Paragraph>
+    <Paragraph Type="Outline 2" id="8f24cd4f-590c-45f6-98e8-25c0f9176d5c">
+      <Text>Plot Point 1</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.12" RightIndent="7.50" SpaceBefore="15" Spacing="1" StartsNewPage="No" Type="Summary" id="4a96e368-cfa0-472b-a5cb-1f2f29ebb678">
+      <Text>Discovers Nancy's cancer and first argument. She didn't tell him or receive treatment</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="965105b4-18fe-4b2a-a44e-cde2418456b5">
+      <SceneProperties Length="1/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scene 1: introduction </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d7b47aa0-05fa-48d3-a65e-d8bce8e484d9">
+      <Text>FADE IN</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="50aa703c-d6af-4b72-95cb-50ede4796dd3">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>EXT. WhitE PICKET FENCE LAWN - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6b813057-7613-4f13-b823-6b3acb0e4074">
+      <Text>Open with credit scenes and fun animations with Rye’s rough hands as he mows different lawns of Huntington Beach neighborhoods.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="de1fcb0e-62e4-4467-b83a-8558869741ea">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. Nail salon - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6b813057-7613-4f13-b823-6b3acb0e4074">
+      <Text>Juxtaposed to back and forth scenes of what seems like a dainty hand being painted. Swanky, upbeat, salon music.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="188658d2-a590-4417-aa74-927387a85e30">
+      <Text>CREDITS END</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="ce66424e-5476-4477-8c5c-5e932a290711">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="21913e77-c11c-4d91-bbcf-ee191c19d559"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. EVENT VENUE - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c6502903-5fcf-49b9-950c-dd668804b7ac">
+      <Text>RYE [18, Vietnamese] narrates from behind a podium while wearing a graduation cap.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="250a66e4-7e61-47e9-976d-cf3d41766e45">
+      <Text>RYE (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0590f6aa-a170-4366-8807-0f098d002e44">
+      <Text>For those of you here who don’t know,</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="bc18aef8-ca25-45c9-b1fa-b5290e85bcec">
+      <SceneProperties Length="3/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="4b1caedc-0601-4b3b-93ed-7f557b5a760b"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Nail salon - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="188658d2-a590-4417-aa74-927387a85e30">
+      <Text>A small eye opens on the other side of a tacky rectangular fish tank of a nail salon. We’re looking through as the eye follows the fish back and forth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2f361c51-b6b5-4f48-929a-c292ccf1bd1f">
+      <Text>Rye (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ffc2482d-9ff5-4dba-ba57-da7106043f6c">
+      <Text>Vietnamese is a monosyllabic language.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="99ae3f3f-59a8-4e04-87bf-9d677d7ee2dc">
+      <Text>Young Rye suddenly digs his hand in the tank to snatch a fish before commotion ensues to stop him. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="84808b71-df76-4fc1-8663-f8f09ada00f7">
+      <SceneProperties Length="5/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="44784dd8-222f-4bde-9472-633fa4d10051"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. vietnamese school - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="99ae3f3f-59a8-4e04-87bf-9d677d7ee2dc">
+      <Text>Scene cuts to him at a foldout table desk sitting beside other Vietnamese kids, slightly older.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="12e9b5bb-ff12-4734-b775-96fe6855f0e4">
+      <Text>Rye (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9e3b4dcc-bfea-4136-a3b4-d103e4d10e6b">
+      <Text>There are 6 distinct tones: </Text>
+      <Text AdornmentStyle="-1">sắc</Text>
+      <Text>, </Text>
+      <Text AdornmentStyle="-1">huyền</Text>
+      <Text>, </Text>
+      <Text AdornmentStyle="-1">nặng</Text>
+      <Text>, </Text>
+      <Text AdornmentStyle="-1">hỏi</Text>
+      <Text>, </Text>
+      <Text AdornmentStyle="-1">ngã</Text>
+      <Text>, and </Text>
+      <Text AdornmentStyle="-1">ngang</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8d437381-4d4a-42b9-8bae-ac657877e951">
+      <Text>Animation as he explains each of them, like cartoons with onomatopoeias popping out for each.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5194586c-a02b-470e-90f2-8c6d4369fea8">
+      <Text>Rye is attempting to focus but looks lost.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ccbbdded-7aa8-4057-bb47-89460e48ca28">
+      <Text>Rye (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4385e661-a78e-48a5-b575-e598b6d1bb5c">
+      <Text>It is very direct and straightforward–but one cannot reduce them to just sounds, they’re feelings carried through the mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e7d79879-d020-40af-b5b0-96026d058e38">
+      <Text>He raises his hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4960f82a-fbef-4b1b-b114-21d027d68463">
+      <Text>Rye (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="505e9163-1aa7-413a-ba45-70c0f21ed19c">
+      <Text AdornmentStyle="-1">Hỏi</Text>
+      <Text> means to ask, so, yes, the tone you use like a question.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c6b6817b-fbda-4648-845a-08303f51b8a4">
+      <Text>Rye’s lips start moving without the voiceover.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fe23fbff-07d9-4969-b15d-f265f614a19d">
+      <Text>His classmates turn around dramatically and stare at him like he’s braindead. </Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="880d424f-511c-4521-82cd-6f82f7b5bdf6">
+      <SceneProperties Length="3/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="d995068e-f85c-4b39-846d-5938a8f08122"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. Basketball court - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fe23fbff-07d9-4969-b15d-f265f614a19d">
+      <Text>Montage of Rye playing basketball outside with his friends, slightly older again. He goes for a </Text>
+      <Text AdornmentStyle="-1">jumpshot</Text>
+      <Text>. His aim is terrible, but he’s a big boy and can do some damage by plowing through everyone else and snatching the ball.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6ebbf143-3654-48e3-a8f1-ba66ac990d5d">
+      <Text>Rye (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c67ea067-df6f-45e3-8b08-0e5137ed00ad">
+      <Text AdornmentStyle="-1">Nặng</Text>
+      <Text> means heavy, so you pronounce the word like you’ve been grasping a heavy boulder and that syllable is the moment you can relieve yourself of carrying it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5e5b895b-c073-4b40-af1d-5e0261473089">
+      <Text>He makes a layup while other smaller kids are simply afraid of getting close to him. He thinks he’s good at the game.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c714e4e2-a352-4deb-be7b-e9cf913f5d92">
+      <SceneProperties Length="3/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="1a83b75e-ed70-4ada-928f-2f44216b75ef"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Nail salon - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d72725b0-d1fa-4878-b193-6ac25f3a98a0">
+      <Text>The eye is older and Rye stands behind the tank, now 18 years old, still tracking the fish back and forth. </Text>
+    </Paragraph>
+    <Paragraph Type="Shot" id="cc14504a-3c98-441a-8224-b05f150cc8cd">
+      <Text>Camera follows him up as he stands completely upright and walks to the right, handheld pan to him walking over to sit on a stool beside his mom as she works on the original set of nails we saw in the intro.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="14d7710b-1ad6-4f24-9293-04c8fade9b06">
+      <Text>Rye (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="389d9ccc-5046-4cc4-8e71-b25599b70d40">
+      <Text>In Vietnamese, we have two words for love: </Text>
+      <Text AdornmentStyle="-1">yeu</Text>
+      <Text> and </Text>
+      <Text AdornmentStyle="-1">thuong</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="25ce165a-eabd-4c25-b0db-e001a64d412a">
+      <SceneProperties Length="1/8" Page="3" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scene 2: LIFE WITH NANCY AND RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="9ee86e88-b298-4369-a1da-cae7fd947e57">
+      <SceneProperties Length="1 6/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CLIENT">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5e8ff2bd-9f0c-4663-a9c3-66288e50c387"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="NANCY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="dd73dd2a-7b52-4316-bbcd-6772a2ba5369"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a9ef02e3-d188-415c-a0a3-eadbce1c4df8"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Nail SALON - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="69532875-7176-4296-844d-38566329f21c">
+      <Text>NANCY [Mid 30s, glamorous] is working on nails of CLIENT [White, Valley Girl Accent] and chattering with an accent that tells you she’s Vietnamese before she does. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="10212643-d121-4d0e-8a2b-d351d9e6bc13">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a8d48c40-cf71-4029-a9f2-79f3569d3c28">
+      <Text>Honey, you want the gel nail or the acrylic?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="046ca854-cfc5-4e81-b671-fde6aad2c1a4">
+      <Text>Rye rolls his eyes from his stool.</Text>
+    </Paragraph>
+    <Paragraph Type="Shot" id="bd88ef3d-63e7-4444-939f-24bd1665ec16">
+      <Text>Nancy kicks his foot under the desk.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d62cbd0b-ae2c-4976-8914-b54f1dd81eed">
+      <Text>Rye continues scrolling on his phone until she’s done.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0c973bed-1abd-41f3-b6ce-93c14194528c">
+      <Text>NANCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="117519fa-ed64-42a1-89d5-7f525d455443">
+      <Text>Okay, honey, you done. You want the Apple Pay again or you have cash this time?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c69676be-8658-4651-8518-0579f416b2b7">
+      <Text>Rye is now doing some homework but watching their whole interaction.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0755e895-b024-4f3c-b37f-704312f3dc35">
+      <Text>CLIENT (chewing gum)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="724e1742-53df-4fec-9136-44dab2542411">
+      <Text>Apple Pay. Thank </Text>
+      <Text AdornmentStyle="-1">youu</Text>
+      <Text>~</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1f329130-42f8-4281-ac45-6e9ac90c325b">
+      <Text>Client leaves and Nancy sits back down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6031784d-1ff3-45eb-bf11-61ade92fdbc3">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ed2f94f2-0a7c-4cc5-b2b5-f773a3f7755c">
+      <Text>Ma oi, why do you always have to do that dumb accent thing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e9699d7b-5576-4015-b972-5e30f4eaa6ef">
+      <Text>NANCY (with real voice)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5f534dce-9410-4ab5-b61c-68d402e95bee">
+      <Text>Why you always in my business?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f42e3beb-4f73-4ca1-9f45-0d086e929556">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="76db835a-6a4a-4cef-b0a8-7c80d2c21a88">
+      <Text>It’s weird, ma.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9b6632e6-0787-43e9-bc89-25f0c9f94eca">
+      <Text>NANCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="47630e1d-1499-4af8-b303-be6d9ca626b2">
+      <Text>I get more tips that way.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="af5a28d7-3d35-4ad0-a877-872f83e001d6">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8408def4-0b6b-46f9-996c-d56037f191fb">
+      <Text>You only do it on white people...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="12d0cd2f-6537-4693-a4d7-b6bc1098dd76">
+      <Text>Nancy (in fake accent)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="582eb774-5b54-4e39-b096-1df168a0981f">
+      <Text>They like it, honey.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="49112ed5-2ba6-41c0-802a-698c94bcbcbd"/>
+    <Paragraph Type="Action" id="26b224ef-0b75-4d3d-99f1-d2ea913d56d4">
+      <Text>Rye rolls his eyes again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ffd70882-9480-41be-bb08-2165e4f1dab7">
+      <Text>NanCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4dfaf9dc-52a2-44d9-a47c-c5c6346a2340">
+      <Text>Stop doing that, boy. It’s disrespectful.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c4650e14-2e6a-4894-812e-c319114ee1f0">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="11951850-769d-4bba-852a-9dc487100450">
+      <Text>Da. I’m going to work now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="039f0aff-ce9a-4493-a492-5fc64d0eb7af">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8f541e7c-54d9-4a67-ad56-c32237d1333f">
+      <Text>Ok. You finish your homework? Who today?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="02f81889-17c7-439f-b39f-949ca8fc212e">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e82f3052-4548-4288-92f9-c8764bc3ff68">
+      <Text>Cierra down the street again. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="84abccf4-01b3-45f2-ba05-90a0cf4820ad">
+      <Text>NANCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f3737615-0e73-49c0-811a-b6b33843b9af">
+      <Text>Homework?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="472d8ef6-068f-4af1-ab5e-bce76ee9651f">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a2006061-6be2-454b-bfdd-74ec4a8ae93f">
+      <Text>Yeah, mostly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7f0ea2ed-a72b-455a-b025-aa5ac12f6c3e">
+      <Text>NaNCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ca7400b0-d809-4989-9ccc-7b581f570097">
+      <Text>Imma smack you up if you lie to me again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5492c091-1b19-4d5c-832f-026158c11f70">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="46c2a97f-22d7-4d23-a9c7-20b09eb39da2">
+      <Text>Ok, mom. Should I come back after or will you be home?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4d27a993-a1b7-4f20-beaa-60a4c6c4e7b7">
+      <Text>NANCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f364ae05-058d-4cb8-a685-3a8839edefdb">
+      <Text>I’ll be here. Make sure to give her a hug. Maybe she’ll tip you more. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ca77cff6-6ec8-4c76-92d9-9454fe831b7d">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9afb442e-a833-42b2-bd75-eec99987f72d">
+      <Text>That’s messed up, Ma. Bye. Love you.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="1fe9befa-01cd-4296-b19b-5bd82061eecd">
+      <SceneProperties Length="1/8" Page="4" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>ScENE 3: landscaping</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="197bb38f-bff1-45d5-9bdd-623ec2d56029">
+      <SceneProperties Length="7/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="CIERRA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="616b8bc5-418f-4d4d-87e9-215261ed8e42"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="55ae2c64-c0cd-4952-acbf-09eff6896028"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. whiTE PICKET FENCE LAWN - evening</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="71efb773-f3c9-4d87-812c-9cec5583a459">
+      <Text>Rye wears headphones. He’s enjoying himself as he clips the shrubbery and mows the lawn while the sun sets. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a273ca9-3699-492a-b7eb-79ce603ab5a3">
+      <Text>Rye rings CIERRA’S [Old, petite, hard of hearing] doorbell.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6d109dd5-0a2f-4737-acba-616d3d9f8bbf">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="05a9aed0-d95c-4a06-bb1d-859967d2901e">
+      <Text>Hi, Ms. Cierra. I’m done with your yard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="72f57e1f-aae0-4d73-ad40-501eef6334bc">
+      <Text>CIERRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5933f360-c143-4b0c-b3f7-ecf4be2496df">
+      <Text>Thank you, sweetheart.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f73816ef-0e25-4387-903f-4664e0d0f71c">
+      <Text>Cierra gives him a hug then looks around in admiration. There’s a shrub that’s been cut to look like a bunny.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1673cc62-8dc4-44e9-a31d-23dea2d5338c">
+      <Text>CIERRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9e7fa684-d18b-4da9-bbe8-ad83d001caad">
+      <Text>It’s perfect, as always. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="63bccfe7-7b8d-44c0-8828-ffa1d616b7d2">
+      <Text>Cierra hugs him. She takes out her wallet and shakily hands him two hundreds.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5bfe1f1b-02b3-4d96-9b14-a6fd56b05a33">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9d1fbc85-be97-40e5-a6e7-e750ba86d2d6">
+      <Text>Oh, I can’t take this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3b1f621f-2bea-42ea-8898-f3b64e50a529">
+      <Text>Cierra</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c58fb7ad-ceb8-4af7-8bf7-73be2a7a2f49">
+      <Text>Where else will my money go, dear? I’m old. I can’t hear much. A pretty sight in my yard means twice as much as a pretty song.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e6bda579-7e13-4b1b-9ab9-0002accc23d2">
+      <Text>Rye reluctantly takes the bills. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="abde4f87-effe-4a1e-8d35-33de3bc4ed9c">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8c6c268e-ce3f-402f-ab11-8cb9a31d22a3">
+      <Text>Thank you, Ms. Cierra.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b00370c9-6732-4e48-b272-ae508ec9927f">
+      <Text>CIERRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f1daaed1-1fd6-45b2-880f-fe44083b0b09">
+      <Text>Yes. Come back sooner than later.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f7881ce4-817a-4915-a0b7-249b6318afc3">
+      <Text>On his way out, Rye takes a ribbon from his pocket and ties it around an ear of the shrub bunny.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="fa6d42d0-bb44-4d39-91b9-b75c0537d79a">
+      <SceneProperties Length="7/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="1ccd4a29-6e45-4500-b9e2-0fda679a8781"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="NANCY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5fbead61-b953-4ae7-bfcb-4837d036a5eb"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="257c35e3-4c07-443d-b690-e16ed0182737"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Scene 4: daniel enters</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4cb732e2-3262-49c9-afe7-e61da4833b8b">
+      <Text>The salon bell rings as Rye enters. Sitting in the stool beside Nancy is DANIEL [Early 40s, Black American, glasses]. Rye daps him up and side-hugs Nancy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="39b2bc9f-f65b-460a-ade8-3e502ebfa0dd">
+      <Text>Daniel</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="96cbf691-69ee-4555-9527-df983bd6eaad">
+      <Text>Hey, Rye Guy. How was work?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9ec2e74f-cb5f-48d0-80b2-430b3a9df8fa">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1d19c379-e51f-4309-90a0-a61345d4ccc6">
+      <Text>Not too bad. Two yards today.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="036c673c-4fdc-4ebb-82ff-d406e23e4a6f">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="25a0c115-ed66-411f-b790-f48c8fe411f2">
+      <Text>Only two yards? How you get paid then?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ed326be7-7df2-4ba2-92e0-b3a05dd288af">
+      <Text>DanIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="04be6901-2a4f-4dd0-9fdc-26381f825826">
+      <Text>That means two hundred, Nan. He did well today.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c7896093-1984-4cf9-ac27-de19eb698f79">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="862a9e95-1a4a-4d6c-9444-52a5630f0921">
+      <Text>Why you still call me that? You make me sound like someone’s grandma.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1484d1d7-d950-407f-920b-4c4c1254b39a">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ab23f058-17aa-48c7-a2e4-d0147f6bd4ac">
+      <Text>Alright, Nan. Let’s go home.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e03a9f8c-db6a-479a-a0d7-3f93d2c30c96">
+      <Text>NANCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ba89ecbd-f50c-4948-a9cf-59c6230d455c">
+      <Text>That’s Ma to you, boy. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="87064fd4-7e9c-4f90-9b22-b8c073055d25">
+      <Text>DanieL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7027030a-198a-4d51-85ba-e3aaf5014f44">
+      <Text>Play nice, you two. Family.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="06799ec3-963c-44b0-abc0-bb8fd5047ce9">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b8b2520b-f7e3-4bc0-9993-68224d363cba">
+      <Text>Tell him to treat his mother with some respect.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2e294835-b4f5-429e-abe9-816be432e85c">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="038fb782-52db-478b-b23f-ecb7531fff1e">
+      <Text>Tell her to take a joke if she’s always making them!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="df3126e1-373c-475e-8ed0-b88e3a7c93e5">
+      <Text>DanIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3faa253d-bdc0-419f-8c9c-9d564b858c62">
+      <Text>That’s enough.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d1f96167-9f7f-4985-8b4e-09a65fb66b72">
+      <Text>Daniel takes out his keys and Nancy locks up shop behind him.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="88e1da7a-a178-44a1-977f-8af1930d727e">
+      <SceneProperties Length="1/8" Page="6" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scene 5: home life</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="88e1da7a-a178-44a1-977f-8af1930d727e">
+      <SceneProperties Length="1 7/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="NANCY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="90577e1b-66ac-4fb2-bc58-1d6e991421c2"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="f7f5b3af-76f9-4284-9037-8b308f4731e8"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Shitty apartment - night</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="44cbbf5e-d602-48aa-b9b3-ed329ec7a5d8">
+      <Text>Unsafe area. Nancy and Rye have a streamlined, seamless routine to enter as quickly as possible, a secret handshake. Elevator is broken so they sprint up the stairs. Nancy lags behind and begins coughing at the top.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5ddd742d-58b4-472d-a8f1-49c942d2df6c">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5ef6cff4-872f-4036-81d6-3bbddc55a57e">
+      <Text>Ma, can you go any slower?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8ca04101-999a-4d48-a478-dcc8eaee1fb2">
+      <Text>NancY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="55085cc3-c2fa-4328-9422-4eff0e526709">
+      <Text>Can you be any more annoying?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3b2fdb71-cc9f-4e5e-a492-d96fde2aa0ba">
+      <Text>They enter their rundown apartment with a broken lock. A nightstand with two jars. One has a taped note that says “College” and one says “House.” </Text>
+    </Paragraph>
+    <Paragraph Type="Shot" id="d65ade1f-2601-4d5d-9595-736513d149f1">
+      <Text>Rye drops his two hundreds into house jar. Nancy follows behind and moves both bills into college.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="952730bf-def7-4cb1-a96e-fbb72d615222">
+      <Text>Rye goes to the fridge and the lights are off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="de81679b-ce2c-415d-bf01-d002cde47e9e">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="62965113-a48d-49ee-82fc-35df1db6964b">
+      <Text>Ma, electricity is out again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7d28ae4e-3baf-4aad-94b8-5445075902d6">
+      <Text>Nancy is already sprawled on the couch with a face mask on. Half a bottle of Hennessy is on the table.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="05fae9b0-c613-49a8-85fc-0cb3dfbef8bb">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6978c6f3-eb19-415a-a9ad-2507f5446fdf">
+      <Text>Con </Text>
+      <Text AdornmentStyle="-1">biet</Text>
+      <Text> lam </Text>
+      <Text AdornmentStyle="-1">gi</Text>
+      <Text>, ma. </Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6978c6f3-eb19-415a-a9ad-2507f5446fdf">
+      <Text>Subtitles: You know what to do.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="29716136-8d06-422a-91db-7954b1b3cf79">
+      <Text>Rye groans and walks over to the generator and smacks it until the lights turn back on.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="df8c8c17-4c98-4ca1-863b-593a26e68488">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0107dc08-6164-439c-bf1b-ed0b944a34bb">
+      <Text>Did you look at any houses with Daniel?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a7c4ff81-9f33-416e-948e-100c408c5a3f">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d194917c-580c-41d4-97a7-95da1abc0ee3">
+      <Text>I’ll get to it after next week.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a9772a6d-6935-4139-a0ce-b70f3d0e864d">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="85102e62-d816-4974-9d39-eb89afaf3d28">
+      <Text>Ma, please. You keep saying that. I can’t live here anymore.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ab4c0e33-8d90-404f-be84-7993a9021eae">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c27e0e25-0885-4e5c-a1b4-e1a7dbed6679">
+      <Text>Okay, did you do any college applications?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2e4c4999-e25a-431c-9a0c-e73d5ffb8e74">
+      <Text>RyE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="42c2c3ec-3b2e-4f0c-8444-d4c9eb8de7df">
+      <Text>Yes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dd2bc88a-e953-4eac-8f8d-f4ac37e6bb35">
+      <Text>NANCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="15ca1576-e81b-48ac-b680-936c998a22de">
+      <Text>Liar. You are a liar. To your own mother.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="59d88a07-a4e7-4b0c-b141-3e6d7785b24f">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="de3f06fb-3391-46cf-a716-12f6b63ba413">
+      <Text>I did.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3f1ee5d2-c0c6-4bbb-99a8-6fb644bda721">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a25b6e4e-3bc7-4d5f-b6e1-d0626cb5fd48">
+      <Text>To where?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="64884263-93f3-4616-b57f-0d6a428802e8">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5b2fec17-2288-457a-97c8-3e88c58f821d">
+      <Text>Cascadia.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2a40c3f4-28e3-4630-b8b5-f073e06df898">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cecd4106-58b4-4e35-a859-dfb3f0a1c98a">
+      <Text>Community? Are you serious? You think I left by boat for you to go to community?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="73ec0169-ac88-4792-be24-b8af27b27c40">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="93fab3d0-ef96-474c-85bf-e8a003b20872">
+      <Text>It’s just in case. I’m not going anywhere good.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c8580068-3d60-4f88-9266-26d34234d1e2">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="09b7b982-0255-4898-bb21-0334e831f509">
+      <Text>Are you even trying?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aed9ca07-52c0-4b85-8a66-8b5cca45b5b8">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1c73c7f8-1bcd-4c82-b97e-01dc2b330d0c">
+      <Text>Yes. I am. I am always trying.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7bf48514-7197-47a2-a3de-c97d0e9e11d2">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8b0d0f85-ff8b-4a29-b1b6-3074229c6858">
+      <Text>Then why do I have to keep asking you this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="67294435-ef95-4b7e-8a88-f4ccffec09a4">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4f4bf055-d4dd-4df7-bde4-8e2893cb5931">
+      <Text>Then stop nagging me!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="39ea46b8-93f7-4c58-85ab-8074e0d48583">
+      <Text>Nancy</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="59543726-d814-4381-b05c-3406950f14c3">
+      <Text>Then you’re going to end up like me. Young and pregnant and no money. Ever. And it won’t be my fault.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a1a83110-df4e-4cb6-a2e9-39249328c7d2">
+      <Text>Rye storms to his room and moves two bills from College to House. Nancy is still on the couch relaxing, now eyes closed, she lets out a cough.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="e2df156e-d1ec-48e2-a7c6-09b0b12cd3b6">
+      <SceneProperties Length="1/8" Page="8" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scene 6: rye school</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="e2df156e-d1ec-48e2-a7c6-09b0b12cd3b6">
+      <SceneProperties Length="7/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LILY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="4fa91362-b20f-4cb8-af39-7d02779c831d"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6b44761c-6ca5-4766-b7d2-e5e7a8c0e993"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. School parking lot - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9b6fa9d2-a4be-44fd-94bb-d2e9b3a5a35a">
+      <Text>Rye rolls into the lot in his dingy landscaping truck. Rubbing sleep from his eyes, music playing. He parks and leans over a fence to the field where the football players are practicing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d11d1e48-0028-4263-90f2-09acae40dacc">
+      <Text>LILY [18, cute, preppy] springs up and rests her head onto her shoulder. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="39afa55a-8e39-49bf-a9e8-37a4ee9a358e">
+      <Text>Lily</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bd820ab9-e4b7-456f-86a1-861b0eb8ac56">
+      <Text>Daydreaming again?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="08bdcbfa-d5d7-4668-b96c-37ae8896bd7b">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="329428b1-a375-4440-b8ed-7194eb8c153e">
+      <Text>Just enjoying my morning view.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bb433c7b-0ccc-40f8-8868-d4463cc2fd01">
+      <Text>Lily</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1339bf3b-8d87-4fc8-988e-f9aba9cafd4f">
+      <Text>What about this morning view?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dc4a74bb-9ba7-4573-8b6e-53671d55c26c">
+      <Text>Lily turns his cheek towards her and gives him a tender kiss.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="25154da7-cfb3-4bf3-b1c5-50d0bb138720">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9d9b8dcb-7d4c-400d-b95e-48a6053f709b">
+      <Text>That works, too.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e389e99b-58f0-4d92-a99d-665e62695070">
+      <Text>Lily</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="13381390-abec-4450-88a5-92348b6a9765">
+      <Text>Just works? God, I should really go where I’m appreciated, huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a9350b55-2cd6-49e9-88ea-59eea62160e7">
+      <Text>RyE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2e88fb67-fbff-4170-a69e-e0bd5adfddc1">
+      <Text>I’m sorry. Just tired.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a9dda81e-4f02-4fb5-b921-6677813f8469">
+      <Text>Lily</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1624070e-ac05-484f-bb52-8d5fba5934ab">
+      <Text>It’s okay. You always are.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1cf7c0bc-fb1a-4417-aa35-3837da16057f">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="973f996a-c5df-4f85-9de6-95ed884b9b85">
+      <Text>Lily</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3dd28322-786d-43b0-8606-1e39e7088379">
+      <Text>Let’s go to class. I brought you a cake pop.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="176482c0-5534-4410-8da6-dd23e89f8ac1">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="11b0ecc9-eabd-4b58-b81e-545085b84ea0">
+      <Text>Thank you, Lily Billy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="041b3846-d257-4349-abdc-bc10aeb85ec6">
+      <Text>He kisses her forehead.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="431ce444-20be-45f1-9fce-a51b7d74a21c">
+      <SceneProperties Length="1/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scene 7: dark academia</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="431ce444-20be-45f1-9fce-a51b7d74a21c">
+      <SceneProperties Length="3/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="1d6e629e-0b15-4090-a77c-0ecb279dedb7"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TEACHER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="ebfec071-3a34-4933-bbd7-d98fefb15c69"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. classroom - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c9cdc9c5-7a21-49d7-aee6-f69a310743eb">
+      <Text>TEACHER stands with arms crossed, gazing at watch.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="67faf58e-0769-4dec-93d1-dd31345e6a46">
+      <Text>Rye is writing frantically, brows furrowed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d7fc2604-9608-4ee3-98d5-10d080023dca">
+      <Text>Teacher</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c7eb99e3-4d4a-4007-b3f7-184d410b6ce1">
+      <Text>Times up! Pencils down.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0764e806-aef1-43a6-8f34-ece7c3446aad">
+      <Text>Lily neatly wipes eraser shavings off her page.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4f2272f3-2ae0-4ec0-85b9-d6b2dd11b7e4">
+      <Text>Rye peers over and quickly copies off her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="575009de-3999-4e8d-b5d9-4092809570da">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="32b2dae3-d7d9-443c-9aa6-baa9e7aed41c">
+      <Text>Fuck. </Text>
+      <Text AdornmentStyle="-1">Fuckkkk</Text>
+      <Text>....</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="09e6a70a-a986-497c-ad92-aebf487f8acd">
+      <SceneProperties Length="1/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scene 8: debrief</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="09e6a70a-a986-497c-ad92-aebf487f8acd">
+      <SceneProperties Length="1" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LILY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="bd7a4964-113e-4637-8607-1dd6071b9dcc"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="d0f7bdbe-a417-418c-9580-5946f0481a83"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Hallway - day</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ee7b8d99-c93d-48ca-ba85-561e61aae80e">
+      <Text>LILY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e39079f-b91c-4369-9d3f-b5178d47b83f">
+      <Text>What’d you think?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7299e0f0-e1c6-48c8-b8ee-de6487cb2906">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c7812244-db3f-4f46-839b-f43e57f5a567">
+      <Text>Not enough apparently. I didn’t finish again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7a388b3e-2f8b-4652-9430-782bbbdcdf13">
+      <Text>LiLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9a8b50fb-a8fe-4032-9e06-8ea2606f21fd">
+      <Text>You didn’t study, Rye?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d1dc6509-3909-4b4a-9eb0-cce8741d330d">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3dae3d68-53a1-4729-a86a-257ea7b89cd8">
+      <Text>Lil, your two hours of studying is worth five of mine. It’s like, exponential.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="09138d1d-874c-4bda-a523-231e363deeba">
+      <Text>LILY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="946578f7-59bd-48a1-a51b-fd468a63313b">
+      <Text>Oh, Rye. If you talk like that, of course you don’t believe in yourself. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3598fb6c-64ed-45cf-98dd-8d851c9fc6c7">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="260d67b3-ea18-4f75-a0bf-fbe015a40b5a">
+      <Text>I don’t care anymore, honestly. It’s a lost cause.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="29fab52c-3ef0-4d97-8f72-581f411a5944">
+      <Text>LiLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6be18f1e-936a-4653-8644-bd219bd44165">
+      <Text>Yeah, with that non-growth mentality.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="575aa264-b7bd-4058-b415-be9f25e65bd5">
+      <Text>Rye brushes it off and stops at a door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="068fe2fc-4136-4cd1-8600-de1c30c0653d">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0f800330-bbff-4fff-b68c-8b20a22fec26">
+      <Text>Bye. </Text>
+      <Text AdornmentStyle="-1">Gotta</Text>
+      <Text> make a visit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3af4f66c-a031-4f6f-bbeb-1b3d0d9029bb">
+      <Text>LILY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0bf100b6-4fe5-4a3d-9a2e-7611ff7d95eb">
+      <Text>Not eating lunch with me again?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2f42cf95-6b4b-4a82-91c9-52af2d076f31">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aa3b8af8-e40e-437a-b71b-41e8e989b194">
+      <Text>Enjoy your croquette club or whatever rich people do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="03e267b2-9d37-4bb4-93d2-0333d8ded2ab">
+      <Text>LilY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="69e555b1-ae52-4a53-8cb5-9a222d4c8c64">
+      <Text>How many times do I have to tell you croquette is a potato?</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="25c03e10-30bf-4cbc-91b3-27bbe34abcc7"/>
+    <Paragraph Type="Character" id="4c718641-e644-4e48-8ae3-bd7c01a41290">
+      <Text>LiLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ba557478-173d-4171-901c-a372729a94bc">
+      <Text>And don’t forget about dinner tonight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="221b48c4-eff4-4a40-ba77-3256a3f7f750">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="13e1ea34-b878-4401-be6a-78666b4001ba">
+      <Text>Fuck...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a79a7d49-d5c9-41d5-980b-bf202a656c47">
+      <SceneProperties Length="1/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scene 9: lunch break</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a79a7d49-d5c9-41d5-980b-bf202a656c47">
+      <SceneProperties Length="3" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DANIEL">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6324d453-e697-43aa-95e2-85f6c6fb4a10"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="2a75e0f7-a272-4460-af31-192e436bc7f9"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Daniel’s classroom - day</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="481a3e87-defa-48fd-bd65-a71dbea9388f">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f9766b2b-5253-4ba4-9ad4-7a67de95d657">
+      <Text>Hey, Big D.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7ce1a7ba-78a9-49e2-9586-a8a5d5753f02">
+      <Text>Daniel</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dd5d23a6-5017-45e1-bb4f-e561f2591dce">
+      <Text>What’d I say about that name on school grounds, Rye?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="08ed3933-9da5-4c63-bb10-d19f297afa85">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="12c9adc9-287c-42db-88f9-b7de96662654">
+      <Text>Uh, probably the same thing you said at home.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="132d69f1-c6f5-4f1c-855f-0d1af44432cd">
+      <Text>DanIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5444be98-41bb-45ae-b2ba-aec44c6ebfc3">
+      <Text>Which was?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9e56c1ce-9569-41da-8c00-53555768377a">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b5a90fef-cd91-48de-9fa1-565e344e9065">
+      <Text>It’s not that big.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e13b4a98-0af4-4c24-b121-baebcd71bb2d">
+      <Text>Daniel sighs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7c2571aa-d7d1-44b1-b3a3-c2bfbe1d2587">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a091b930-4994-4d2d-a20a-48cb92cf5e44">
+      <Text>Alright, Rye Guy. Let’s open that document.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3a55f1ec-62f6-45e5-be04-8752d4bf46a0">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="60bc0f17-52a0-4b97-9c6b-f50e3761f113">
+      <Text>Aw, come on, D-Boy! Can you never just hang out with me?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ef958384-33b3-4295-bfc8-0f5032c86014">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3fca1ab1-0adc-47e5-946e-222ae190ac5d">
+      <Text>Was it not hanging out when we watched the entirety of the Lakers game together?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="77f8634a-81c4-485d-9a8b-90f363e63b41">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="97d6c9f2-799c-4eda-a0f1-814522441973">
+      <Text>No more LeBron. It’s like watching an old video of your dead wife.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5853204a-cd3a-4640-a413-fcc72648cfdc">
+      <Text>Daniel shakes his head and tries to not laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ccb5312d-432b-4d54-b1be-0d40fe2cde22">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9dbfaa1f-5e59-4f23-a394-9944aafb2189">
+      <Text>Please just open it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2833de6a-4fa7-422e-8f71-e1d806b8fcea">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a2eb9df4-b5b7-4ee5-bb66-5ce45c00ea83">
+      <Text>Fine.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1b2e0587-2767-4198-b064-12a10e959d0a">
+      <Text>He moves deliberately slow.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="01d6098f-eeba-4aa0-a874-97f4fdc93f76">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b61fc442-83f2-452c-9220-046418abdda6">
+      <Text>Lunch is only 30 minutes. Is there something you want to share with me?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fd4fb6f3-76b3-4475-bc8a-3340c22b0d52">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="30cb8f39-ab7b-4688-94b8-e32218681983">
+      <Text>And what if I told you I was trying to use up 29 minutes because I haven’t written anything since last time?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="29c36b3c-e340-4ee2-a9e3-1b43fd900677">
+      <Text>Daniel sighs again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6ba08926-256b-4d89-81ca-ebfada378ddf">
+      <Text>DaniEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3128882f-fcd9-4b45-af0e-c5181bf6731e">
+      <Text>Why don’t you want to do this? </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d78b72a7-29f1-4e97-8c51-62aad025ff28">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="db44c5eb-b154-46c4-ad7e-6c13a094a3f0">
+      <Text>Who said I don’t? I get busy, I get tired. It’s nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="78fc49d3-f2eb-48f0-8dc5-814ec2a3767c">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="11781c14-8e4c-48e3-96e8-0aca1a46927a">
+      <Text>No. I work with hundreds of you. I can tell when someone is just tired. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f4ed7537-f659-42ea-b1b9-aab7a42692fb">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d2871aee-87e8-4118-ae81-268ab097c868">
+      <Text>It’s nothing. It’s stupid.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1e69d1d5-abe5-4b11-a7c0-b4b4cac7101d">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f9876cbc-1ae6-4336-abac-f42bf4b47626">
+      <Text>What is? Your reason, or college?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2dd7bfa6-da79-4b14-add5-0133cdf8eab6">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c6c98c61-ee55-4c88-ac2c-1bd075a6ce6e">
+      <Text>Both! What, you practically write my essay for me, then I go to college and I’m just dumber than everyone else? Small fish begging to join a big pond?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="420e13d8-3e51-478d-bccf-1b399b8587f4">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="968ddd2c-649e-4bbb-85d9-94c486e7d85b">
+      <Text>Confucius once said—”When frying small fish, disturb them little.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b5ca1286-e393-4cbd-b173-ba7ddc8d7bad">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="730f19cd-423f-42da-9fe1-07739fd5579c">
+      <Text>See? You not even Asian and you knew Confucius before me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cb297dad-1ae9-4e2e-b9f0-bb0c7b36ee79">
+      <Text>DanIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a921dc1a-d114-4aae-8cd4-abc5281b7672">
+      <Text>It can all be learned if you want to learn.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5d483d4c-9cd9-4107-acf8-155146c72a64">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="251add48-2d6b-49c6-a963-88f2a891ea2d">
+      <Text>I don’t want to learn. Mom wants me to learn. But not because I want to. Because she didn’t get to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="528937c1-905e-49a9-b448-3afa8b9bfd9e">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bb60531e-96e9-44cf-92f9-047fe9307e2c">
+      <Text>Do you really feel that way? </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d4ac2e0f-f5cf-4062-992c-4b78b5ef7eb6">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9cfb8c27-752a-44cc-a8ef-189a7bd4d6e9">
+      <Text>Yes, always.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bf33d784-c19a-47e4-9bb1-f12bf337c3b3">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7625f924-208b-4aa9-a599-eef0ecd6de9c">
+      <Text>She just wants what’s best for you. You know that, don’t you? We don’t have all the time in the world in our hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f73fbfe4-d678-4c37-95a8-a9331def97ee">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5ac432ca-4711-45f4-8bd1-1721b738693d">
+      <Text>And how does she know what’s best? </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5d00121d-d77a-45b2-b167-5539b703c050">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5450e5ad-e477-4ad0-b939-eee06a106501">
+      <Text>RyE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5ac432ca-4711-45f4-8bd1-1721b738693d">
+      <Text>I’m big. I know that. I’m strong. I know that. But that doesn’t mean I’m smart. Why is that so bad?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9e997ff-80a4-48f0-8626-897f87ff00bf">
+      <Text>DaNIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7ab06cb9-f6d0-4d6a-8c9c-685b00b321ea">
+      <Text>You’re so much smarter than you know... and these schools don’t want perfection. They want coachability, they want growth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9f5af60b-b68b-4640-8ee0-7cdfd74a4342">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="770dd8ca-4bc2-4a48-bf39-0544caae13df">
+      <Text>Well, unfortunately, I’m not a football player either. I know what I am and I’m not ashamed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8244f3c3-f719-4b35-898b-24a3180b091e">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c53a11b3-aff7-42bc-abc6-2ccf61445a92">
+      <Text>Okay, Rye. If you won’t do it for you, or your mom, will you do some writing? For me?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9f8876ad-1712-4cb6-a74d-003fd6fd0039">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6e750b39-90ae-4f4b-9e82-e01f9134faae">
+      <Text>Oh, don’t pull this card on me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="384ba3d7-2162-4e00-9a81-7f4da3c34a62">
+      <Text>DanIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3bb0d402-30f3-4623-96d0-1f52d42a9842">
+      <Text>It’s not a card. I’m a teacher. I need a refreshing perspective now and then. Write about you. </Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2cc0eef6-2d4a-483a-be98-d5c8f3a8e3b4">
+      <Text>Rye hesitates.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9f170d83-006c-4a20-8ad3-2a6a91426ca5">
+      <Text>DANIEL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b221c0dd-4e07-4f7e-a250-c9f4027cf4c9">
+      <Text>Think about how many nerds I have to read essays for.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="103304a0-a7d7-4d03-bef8-c0376aeb8641">
+      <Text>Beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3bb0d402-30f3-4623-96d0-1f52d42a9842"/>
+    <Paragraph Type="Dialogue" id="3bb0d402-30f3-4623-96d0-1f52d42a9842">
+      <Text>Tell me about a favorite childhood memory of yours that I wouldn’t know about.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="1b26242d-76ba-4205-b277-82ba59c2366a">
+      <SceneProperties Length="1" Page="13" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="e6324462-5101-4ed4-b23e-2009d42af7ea"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Scene 10: childhood flashback sequence</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9fde86f0-f758-4c8b-aa03-57bf018f0dc5">
+      <Text>Montage of Rye’s childhood routine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d4f1f844-ea2e-46a4-a7bf-10ede8cd54f0">
+      <Text>Rye (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dc47ebc2-e779-490a-a5b0-5f6b422ddb7d">
+      <Text>I grew up in that salon with the marble floors and sticker tiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="db072525-10c6-4c52-9b14-6144ec04afae">
+      <Text>RYE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dd530712-973b-4c5a-a005-191106b66482">
+      <Text>They were nicer than the apartment, so I went there everyday after school and played on the chairs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cde4876a-865d-43b8-8881-43662b42a4dd">
+      <Text>RYE (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8547e838-1f7d-4553-b6db-2d58fb5ba109">
+      <Text>My mom never got to sit by those ladies. She was always massaging their feet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b1d39884-c1e5-42bc-b87d-84051ff32929">
+      <Text>RYE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="47450629-7b8d-46d2-8af1-07f886601fb5">
+      <Text>But she always said that, if I felt bad for her, I was telling her she should be embarrassed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b1fd5766-9fdb-40c0-a0a9-e24d53c91dd7">
+      <Text>RYE (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5e6259a1-51ad-4df6-ab62-85b26461e083">
+      <Text>But I think deep down, she was always ashamed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="45be606e-9356-4338-a0a3-90002a3537fa">
+      <Text>Rye (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8e7569b3-4370-4198-90dc-de61e09020bc">
+      <Text>But what she didn’t know was that I didn’t really care because when that My Trang lady came in, she would always soak the rhinestones off in the foot bath. And while she wasn’t looking, I would keep those rhinestones for myself and feed them to the fish like food.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="92e601ca-0639-4afa-96f8-e167ea16a1b9">
+      <Text>RYE (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="18287bcf-7bc8-42d1-a65d-0e82a45fb556">
+      <Text>And I would always get sad when those fish died, so Ma would take me to get a </Text>
+      <Text AdornmentStyle="-1">McFlurry</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="20d58108-3291-4505-8003-b16ae0f9d815">
+      <Text>RYE (v.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8ccf90a9-7680-4e02-bdaa-bf6d93d74dd4">
+      <Text>So, I guess. I just kept killing the fish which made me sad but then I got ice cream which made me happy.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="8f753c11-f735-4c5d-845c-223793268c62">
+      <SceneProperties Length="1/8" Page="14" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scene 11: nail routine</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a1d5eb72-edee-49fd-9dd2-dd3a758b4e62">
+      <SceneProperties Length="1 2/8" Page="14" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="NANCY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="30b6c570-1d44-4223-93bd-f136d957d7d6"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="59aab154-4af9-41a3-9b96-fc42a5bb890d"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Nail sALON - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="900ae24d-7f30-4c5c-8396-c2f2d9bcc568">
+      <Text>Rye comes through the door. Nancy is painting a client’s nails.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="52e92062-8ca9-4d3e-bdff-97e0f5e22fed">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="44578ed8-7158-454b-a075-7a5f03fd3be9">
+      <Text>ICE here to come get Nancy!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d9196dd6-1261-46a3-a2a0-7233729eebad">
+      <Text>NanCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e1b137c0-4626-4d30-8a82-3c2348d812d5">
+      <Text>Nancy here to whoop Rye’s butt.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b3878aa9-50cc-4292-b920-5aee819e2b33">
+      <Text>Rye is holding a baggy. Nancy stays focused but pauses to let out a cough.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d7fbcb11-d36a-4523-a119-631e1e1c7c6c">
+      <Text>RyE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d39f995e-fe65-4561-926b-828483f272d6">
+      <Text>Daniel bought you some banh mi. I ate most of it already.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8ea456e5-6b90-4563-8bea-b9bde204100f">
+      <Text>NaNCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dbb7ee08-4cd1-4cea-8aea-e7d60ab23654">
+      <Text>Thank you, con.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2b764a9c-618e-4281-86f9-a9ebb3aa6da1">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6addc75f-7390-4ac7-a5ef-76d8627d4bb6">
+      <Text>I worked on the essay today, too.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e62ecfa6-e3ca-4510-a813-8bccb9f82b81">
+      <Text>Nancy finally turns.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="356729a3-4dc4-4677-8b51-c6e45f32add8">
+      <Text>NANCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aad94178-eb87-41fc-b7d8-4bf4c78a2c9f">
+      <Text>Oh, good, con! What did you write about?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d8f96fc3-efe1-47f5-b77b-5f09fc3aff88">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c692318e-9f2a-4cc2-b2bb-b2421bc80d2c">
+      <Text>How I used to kill the fish and you would take me to get </Text>
+      <Text AdornmentStyle="-1">McFlurries</Text>
+      <Text> after.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="334e420c-e7f0-43e8-86d6-f3d957dd431d">
+      <Text>NANCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5f1c9025-ca53-4b59-8155-2df444233857">
+      <Text>Con co </Text>
+      <Text AdornmentStyle="-1">dien</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">khong</Text>
+      <Text>?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e3c7cd36-99e3-44ef-8a64-8dec9707f64d">
+      <Text>Subtitles: Are you crazy?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a80e8307-6b52-4341-a148-ea583a6861bb">
+      <Text>NanCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="253006c2-26dd-4997-9b44-b07fedeb96a6">
+      <Text>They’re going to think you a serial killer!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d77c95fd-8bc4-443d-81fe-88fc9419bebf">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6784cb2a-353a-4bb0-9bf0-ca1625d0da25">
+      <Text>Well. At least I wrote. Let’s see what Daniel says.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fc34f960-76c0-4787-8bc6-0ef50870403c">
+      <Text>Nancy shakes her head and goes back to work, but continues coughing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a79fab4c-5ba6-4f7e-9874-73b10ef0a534">
+      <Text>RyE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="948bb9aa-47ea-4a82-b711-5ae8cc0ea070">
+      <Text>I’m going now. Two lawns today.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d7f7f585-3996-4491-b8bd-bcfebea418f3">
+      <Text>He looks over hoping for some reassurance. Crickets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7603489b-9b6c-4f80-87c7-d066badf6658">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a847aa47-0063-4e26-a354-96c55201e843">
+      <Text>Why are you coughing so much?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="18afd87e-68e7-4d19-9942-bbf215b9a4a3">
+      <Text>NANCY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6c2744e0-1372-4a24-babc-2a7f4393e840">
+      <Text>Bye, con. Food in the fridge at home. And don’t write anymore bullshit.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3fc08d60-84b1-47de-8be7-03d20b9ce936">
+      <Text>Rye leaves.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="d8835a6c-0c31-4b66-8140-b0a5ffe1ce6a">
+      <SceneProperties Length="1/8" Page="15" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scene 12: the discovery</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="db3ad671-7e7e-4524-9765-87f9ec590346">
+      <SceneProperties Length="2/8" Page="16" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. ShittY APARTMENT - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d74f4634-77e2-4843-8a02-80e9c7755803">
+      <Text>Rye is looking in the mirror, adjusting his shirt to hide a stain and shaving his stubble.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c07a2d08-9db3-46ef-834e-1596d037fedb">
+      <Text>He grabs deodorant from the mirror cabinet and sees a pill jar. He pockets it.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="7f514b8b-9af8-4b13-8c07-6d6024f7943a">
+      <SceneProperties Length="1/8" Page="16" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Scene 13: dinner at lily’s</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="293d93f5-e0c2-4f39-b50d-bc42640e79b9">
+      <SceneProperties Length="1" Page="16" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LILY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="e9d5e68a-b21e-4784-9678-9fb1cfb5b2e3"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RYE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="cb1ed9a7-cf2b-46f8-91d3-62acaaf7c52e"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Beautiful home - evening</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bc04a732-76d6-4746-9421-9a3d277a653c">
+      <Text>Rye rings the doorbell with a cheap bouquet in hand. Lily opens the door excitedly and they hug. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="754a9e7b-48bc-488c-b4ac-1f4cb2b794cf">
+      <Text>LiLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e1500d65-7bea-465a-8b88-955450aded65">
+      <Text>You know you don’t have to!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d362c4ad-d8d7-4faf-b209-c933f71beed6">
+      <Text>RyE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="43507e6a-cb1b-48dc-82fc-37597910396f">
+      <Text>Yes, I’m just the best boyfriend ever.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="044d02c7-a09a-40ed-a9bd-8afc0606a05f">
+      <Text>LiLY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="00944a69-ab5d-4b28-bb1f-7f71dd0195cf">
+      <Text>Come in.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3abe4900-a77b-4881-9d81-6efafee5352b">
+      <Text>Rye enters and we take in all the surroundings with him while Lily takes the flowers and puts them in a fancy vase. Fancy paintings, gold accents, and ornate dolls. Rye picks one up and plays with it in his hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="08573cba-0853-4ba2-9045-e5305ff39412">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7db82857-9df2-466f-96ec-6b55e103c2a3">
+      <Text>These are still creepy as hell.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d5826391-93a0-4623-bf19-f299d259f04f">
+      <Text>LILY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="97f50b71-55c8-4e69-9336-623265d7e6c8">
+      <Text>My parents. Collectibles. Worth a lot, you know. It’s like the weirder the shape, the more it costs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="32625f4b-dc60-49fb-98cb-dea4f3e1aaa9">
+      <Text>Rye</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b7e2a8dd-8013-45e1-83ce-2325bc1c52ab">
+      <Text>Can I talk to your mom about something?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f36f66c7-9172-4dc9-9beb-7d292c8f9359">
+      <Text>Lily</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="07688cc4-bbdd-40a4-9f28-c7c2d733385c">
+      <Text>Yeah, what is it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5859e807-ea21-4e78-81ee-4b3dcd02e0ee">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="344b08b7-ccf0-4501-9dfe-7cc1013820fa">
+      <Text>I found this. And my mom’s been coughing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1a7db9b2-f84d-4ee5-9cdf-54e2c7000700">
+      <Text>He hands over the pill container. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c4cac51d-098c-47da-892a-f2807549fe4b">
+      <Text>LILY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="48fd0f44-4e0c-46d8-bc7f-6c7141245768">
+      <Text>Oh. I mean, it could be like how people take Ozempic without being diabetic. For aesthetics?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1813e85f-480e-40b4-a3aa-8d2a000ea88e">
+      <Text>RYE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2c8f7ff0-806b-4cfc-8a7d-83aabc6890ad">
+      <Text>I looked it up and it’s for cancer.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9284d1ff-da73-47bd-ab2e-73cd2a0d0907"/>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="7.50" SpaceBefore="15" Spacing="1" StartsNewPage="No" Type="Summary" id="9e2a63c0-14ed-4af4-ae68-4aa82c8af413"/>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="f22aa79d-7c53-4967-8413-a0d7cc526483"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="2aacc74c-f7e7-4308-a3f7-38517d295309">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Collated Revisions"/>
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="c963d0e3-cc8e-44f8-8c97-0c1c426c233b">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="1198" Left="25" Mode="Normal" Top="-38" Width="1740"/>
+
+  <TextState Scaling="90" Selection="10857,10857" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" TabKey="General" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" TabKey="Action" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" TabKey="Character" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" TabKey="Transition" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" TabKey="Dialogue" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" TabKey="Parenthetical" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" TabKey="Scene Heading" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" TabKey="Action" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" TabKey="Action" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" TabKey="Scene Heading" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" TabKey="Scene Heading" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" TabKey="New Act" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" TabKey="Outline 1" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" TabKey="Outline 2" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.12" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" TabKey="Outline 3" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" TabKey="Note" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.62" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" TabKey="Summary" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="7998ec50-3b91-48a9-9d73-90f103be34a0">
+          <DynamicLabel AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="04bdf268-3c68-4b98-9073-8bbef507cf0c"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="eecb8736-2e38-4bad-8e66-c120d45ad661"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6ac2fe91-9f6b-40cc-9612-0faee0656001"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="2226f3ae-0841-4c8c-9346-bf4f1db5cc71"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="d80237f3-e41e-442d-99d4-33faad1db7e7"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="24276ac7-9716-49f9-b65e-eb8eca7ef96e"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="1cab50cf-edfe-4524-bfaf-69a0ff2e1576"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="f23a4429-edd5-43a0-a8fd-fc9201bdfc67"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="e117eb97-6ca9-4654-a771-88b2de1e7aec"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="7639742a-2f94-43a1-8f5a-dcf49d2d0893"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="49ecedbe-fbea-447b-85ac-6a9c71627a4f"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6539500d-5ef4-4690-adac-c8442ab9705f"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="06c49952-e5dd-4def-8d37-241e967ebc7b"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="06bb4d87-3b1c-47cf-89be-f7fe63be0aed"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6b575e28-808e-4d7f-8ee5-6b2514428ef7"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="d067f795-a248-4c2c-9253-ee5db55941b4"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="9bf4e84a-9778-4552-b4ef-9788ac35c75e"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="c03c7af5-cc2a-4f60-8c92-191d8f7e13e3"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="24757416-bdae-4093-8867-bf6326dbcadd">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Script Title</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="8ce82193-de6a-4b80-9f76-fdbfd4575b41"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="8c199160-643a-43e6-9c35-370c75049d2d"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="4055db20-6e04-46b0-845c-5b8a0a9e5111"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5a70ee70-7dcf-467c-be4d-39eaebfc01e8">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="49c0f63f-da72-43ae-ab86-fe1ea69f487d"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="c27f206d-37aa-4675-b3dc-884f30cadb07"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="f06af663-b0a3-4a88-bea3-c41321f9e416">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Name of First Writer</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="458dff59-2089-47a2-baef-2581418854dd"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="aecdfa74-55c6-4f7e-abec-e4f2fbdc9fe8"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="cb798afe-c7da-4978-983a-9875e4b4739f"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="2e6beff4-cfaa-45a3-a626-025dc295a864"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a8965a19-6899-4d81-8f84-5c37a43c61da">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Based on, If Any</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="111596d0-4edd-4a4f-b6f6-aa9fd64cd95c"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a652cab7-2c1c-46c6-8006-556494f544ab"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="ebccc87e-9d82-45e8-a0e6-7eaafd40a9b4"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="1477d47f-47e2-41b2-b54e-3bedda3f4ea9"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="b2427c73-d89f-4c7c-af8e-a4d6cc180ff3"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="ca0fa4f6-37df-4591-93d1-f0208f4679c2"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="e09232c8-025d-4b88-9b73-711e34184121"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="0b32d0d9-0224-408e-999b-94f2273b012e"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="7ea4dadc-6628-41d8-8e93-ba1c1c659d5b"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="dd68fb9d-e023-4073-83ca-acb6aa0dbc39"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="3fb60fba-c4ab-4e96-8eac-a5b00aea1cca"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="38e6bda8-578f-4057-adeb-f3acb5683b34"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="1eee2126-f517-4b30-8e83-9b5c3cdff764"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="adcb87e8-eb0b-4b7d-864a-634b7da6aac1"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="756a4956-c191-4c37-a21a-5bc379e4b10d"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="69794580-7440-4d20-93ea-fae979eaa7fe"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a356ef02-3f8d-4c2b-a576-b532542cde8c"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="d95e7a78-90f6-4573-a06f-acfa0e1f3f2f"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="d449d32e-84f2-4d80-a4c9-b290b39d5fae"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="f1efc36c-84aa-4624-b643-afee6564ba18"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="82c101dd-7ab3-4d4a-be6d-55a64377ac65"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="66851e69-e68d-4979-ae32-40dc982a6449"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="49221b25-6b50-412a-bc51-8b9e1c2f7312">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Address</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5d5e39fa-7e13-4259-b438-a617e43b21ed">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phone Number</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Rye</Character>
+      <Character>Nancy</Character>
+      <Character>CLIENT</Character>
+      <Character>CIERRA</Character>
+      <Character>Daniel</Character>
+      <Character>Lily</Character>
+      <Character>Teacher</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(with real voice)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>SCENE 1: INTRODUCTION</Location>
+      <Location>WHITE PICKET FENCE LAWN</Location>
+      <Location>NAIL SALON</Location>
+      <Location>SCENE 3: LANDSCAPING</Location>
+      <Location>SCENE 2: LIFE WITH NANCY AND RYE</Location>
+      <Location>SHITTY APARTMENT</Location>
+      <Location>SCHOOL PARKING LOT</Location>
+      <Location>CLASSROOM</Location>
+      <Location>HALLWAY</Location>
+      <Location>DANIEL'S CLASSROOM</Location>
+      <Location>SCENE 10: CHILDHOOD FLASHBACK SEQUENCE</Location>
+      <Location>SCENE 11: NAIL ROUTINE</Location>
+      <Location>SCENE 12: DINNER AT LILY'S</Location>
+      <Location>BEAUTIFUL HOME</Location>
+      <Location>SCENE 12: THE DISCOVERY</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="Vertical" SplitterPosition="1052">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+    <BeatBoardPanel DisplayMode="Page" ScrollOrigin="0,1500">
+      <FontSpec AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </BeatBoardPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Rye"/>
+    <Member Actor="" Character="Nancy"/>
+    <Member Actor="" Character="CLIENT"/>
+    <Member Actor="" Character="CIERRA"/>
+    <Member Actor="" Character="Daniel"/>
+    <Member Actor="" Character="Lily"/>
+    <Member Actor="" Character="Teacher"/>
+  </Cast>
+
+  <SceneNumberOptions AutoHideNumbersOnRight="No" LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="CIERRA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="CLIENT" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="DANIEL" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="LILY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="NANCY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="RYE" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="TEACHER" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="" TableIdentifier="NavDynScenes" id="e4cc0e17-e966-404f-bacd-ec32b98f478a"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems>
+    <ListItem Id="c644a3b7-2369-47f6-82aa-caa16fa5c788" Title="Rye Pham - green lighting" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="0ebed2d8-757f-4c4e-bcea-810af69fd084">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Impulsive, struggles in school but has always tried to make his mom proud and go to a good university because she couldn't, low-income growing up in a nail salon. Sweet kid but can be sarcastic/dry and quick to anger. Very much a high school boy. Child of single mother.</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="23ce03e6-3f13-40c8-98aa-d4e93426eb75"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="b1893356-5915-46fe-b340-205af84ff805">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Internally, always been insecure about financial situation and intellect. Stocky, athletic boy. Extremely family oriented.</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="65efd845-9d25-4b51-9217-21f833de83d6"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5b412317-75dc-4e6a-976e-f071c7f119ae">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Need: save up for him and his mom to have a house, and for her sake, him to go to college</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5b412317-75dc-4e6a-976e-f071c7f119ae"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5b412317-75dc-4e6a-976e-f071c7f119ae">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">History:</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5b412317-75dc-4e6a-976e-f071c7f119ae">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- grew up poor </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">asian</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">american</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> whole life</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5b412317-75dc-4e6a-976e-f071c7f119ae">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- slight resentment towards mother for giving up on herself and not letting herself dream bigger or accept love but loves her more than anything, just wants her to grow up and go out</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5b412317-75dc-4e6a-976e-f071c7f119ae">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- insecure in </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">intellignece</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> but doesn't realize he's smart business wise and speaking</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5b412317-75dc-4e6a-976e-f071c7f119ae">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- thinks he's meant for physical labor, always wanted to play football but no time</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5b412317-75dc-4e6a-976e-f071c7f119ae">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- big stocky boy. Mom is best friend</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="5.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5b412317-75dc-4e6a-976e-f071c7f119ae">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- anger issues . Hates how his dad was never there. and grew up early</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="f7dabeaf-84c9-4d34-93c6-0584f261a42a" Title="Act 2" Type="Beat">
+      <SubordinateTo Length="60.000" Level="Outline 1" Number="29.250" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="d75a5a6d-3adc-442b-8f50-0780be4407e1">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Rye striving to complete his and his mom's mission while also trying to fund her treatment, apply to college, and navigate his personal life. Working himself to the bone and willing to do anything to save her. Daniel helps him. Rye has a land-scaping business to help and a supportive love interest. As he gets close, everything goes to shit.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="9bc8e9c0-23b8-4f07-9a1a-3a1417372055" Title="Nancy Pham - pink salon aesthetic" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="8fb1b8c3-514f-4b38-a82f-c29f1a327e6f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Dieu mom. </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">Fiesty</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">, single mother, selfless but hides the lengths she goes. Complex in her satisfaction with the choices she's made in her life. Fiercely youthful perhaps to a point of immaturity. Got pregnant young with one of the first Vietnamese men she met in the US out of loneliness. Was sent over by her parents to start a better life and feels that she failed. Independent  and fights her feelings for Daniel, love interest who will do anything for her. Prideful, won't accept financial help.Likes to drink to take off edge which occasionally bothers Rye.</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="8fb1b8c3-514f-4b38-a82f-c29f1a327e6f"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="8fb1b8c3-514f-4b38-a82f-c29f1a327e6f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">History:</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="8fb1b8c3-514f-4b38-a82f-c29f1a327e6f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- left </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">vietnam</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> at 10 and had to leave her brother behind, she still has a hurt for it and wants to make her time right in the US but feels she's failed</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="8fb1b8c3-514f-4b38-a82f-c29f1a327e6f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- pregnant at 18 to one of the first </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">vietnamese</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> men she met, he's absent (powerful flashback sequence in the rain... cowboys and angels?)</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="8fb1b8c3-514f-4b38-a82f-c29f1a327e6f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- threatened to leave him for adoption in some box in an alleyway to get him to stay. He still left and she went back to get her baby</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="8fb1b8c3-514f-4b38-a82f-c29f1a327e6f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- struggles to trust men or to believe she's loveable or worthy, jokingly puts a lot of weight in beauty. Doesn't realize how much people truly love her character and humor </Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="e84e1a82-1f19-4d40-b9c9-4954a259fbff"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6e8e889d-8465-46cc-89dc-9d98d693a6fc">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Gets cancer as plot point 1 from the nail salon fumes.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="84a55757-0c04-4f2e-9b17-9c2180362610" Title="Daniel - the brown where they meet in the middle" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6d7102a1-04c1-4e51-8811-f7c121a3424f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Love interest and father figure to Rye. Black, a bit younger than Nancy but much more mature. Foil to Nancy. He is soft and gentle and sensitive. Helps Rye with college applications and writing. Emotionally intelligent and soft-spoken. Obvious entanglement with Nancy, but she's hurt and non-committal. Wants to make things serious with her. High school teacher at Rye's school. Glasses.</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6d7102a1-04c1-4e51-8811-f7c121a3424f"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6d7102a1-04c1-4e51-8811-f7c121a3424f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">History:</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6d7102a1-04c1-4e51-8811-f7c121a3424f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- grew up also without a dad, like Rye, and wants to fulfill that gap</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6d7102a1-04c1-4e51-8811-f7c121a3424f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- no </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">sibilings</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> either, always had a lot of love to give</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6d7102a1-04c1-4e51-8811-f7c121a3424f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- divorced his wife because she was a lot like </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">nancy</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> in outside demeanor but behind closed doors cruel</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6d7102a1-04c1-4e51-8811-f7c121a3424f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- was a sheltered kid that loved to read, so teaches English now because he's passionate about it and it got him through a lot</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6d7102a1-04c1-4e51-8811-f7c121a3424f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">berkeley</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> alum</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6d7102a1-04c1-4e51-8811-f7c121a3424f"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6d7102a1-04c1-4e51-8811-f7c121a3424f">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Comes over to help out at home and do things for Nancy and Rye like help with essays, but doesn't live there.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="c11d8869-c75a-49e1-bc57-8ca5c3236411" Title="Act 1" Type="Beat">
+      <SubordinateTo Length="29.250" Level="Outline 1" Number="0.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a52669fd-fce1-434a-8cab-f3a859270068">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Building context of their lives and routines and the goals Rye has set with indicators that his mom is sick and not doing anything about it</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="f3ad3c72-f4cc-40ed-9214-62a55613c9bc" Title="Central Conflict" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="33ad2ecf-210a-46c3-968f-0373ad93cb8d">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">1. Rye: save up for a house in a nicer area and help his mom work less by supporting with the ways he knows how. Make her proud and provide for family. She wants him to go to college and get a cushy office job, but he doesn't believe in himself and knows he's not as good at school as she'd hope.</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="e81dfd24-9591-486d-995e-ea8e7bcd1d7e">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">2. Struggle: doesn't succeed academically, argues with his mom frequently, tired and can only do so much with his talents, mom gets cancer and he has to help fund that treatment instead of just focusing on school and side hustles</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="2b39b662-0acc-4121-8cac-cde6ee901e22">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">3. Raise the money he needs while balancing school and his mom's expectations</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="4bf13fac-0f76-4d3d-91d7-7d39d21b737b">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">4. </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">fear</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> Mom will die and never see the goals they've been working towards</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="33e917e2-ba78-469d-9836-12bc2e50b3ce">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">5. Does a lot of bad things to make shit shake, gets caught, has to make amends and learn to believe in himself. </Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="1a524189-b86b-4ebb-8c31-c1619e3422f5" Title="Act 3" Type="Beat">
+      <SubordinateTo Length="30.375" Level="Outline 1" Number="89.250" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="4.17" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="962018c1-84d3-44ab-bf8d-48944bfc2174">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Making amends for everything going to shit. New regimen to keep himself alive. Gets close to goal again. Hope is on horizon. Mom getting better, reveals that Daniel has proposed again and she's finally accepted. </Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="4.17" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="962018c1-84d3-44ab-bf8d-48944bfc2174"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="4.17" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="962018c1-84d3-44ab-bf8d-48944bfc2174">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Call that she's in critical condition. Rye rushes to hospital to hear "didn't make it" but when he's there he sees his mom is in vital state but with a forehead scar. Not from cancer, from car accident. Room over, it's Daniel that's been hit. He doesn't make it, but leaves behind all the money that Rye and Nancy were too proud to accept. Rye leaves the hospital and knocks a fuck ton of equipment over, goes home, and breaks the already broken generator by throwing the home jar at it. He throws the college jar at the laptop Daniel and him worked on. Takes a deep breath, gathers the money and scoops up the shards cutting his hands, and burns them on the stove. </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">sits</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> on the couch and cries. Fade into Reveal and resume poem, that he's not giving graduation speech at the end, but that he's wearing cap to Daniel's funeral because it's what he would've wanted. At the end, he walks over and sits down beside his mom and rubs her head. His cap says Berkeley.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="d326ea2b-bfd6-4972-a9cc-0fe150f08eb1" Title="Plot Point 1" Type="Beat">
+      <SubordinateTo Length="2.250" Level="Outline 2" Number="28.250" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="50ce10db-b79b-4576-a901-a259659aa63e">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Discovers Nancy's cancer and first argument. She didn't tell him or receive treatment</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="32c929e7-9082-4358-a332-563a8e341140" Title="Plot Point 2" Type="Beat">
+      <SubordinateTo Length="2.250" Level="Outline 2" Number="88.375" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="1e459edb-9955-4438-9e7f-23100bb78e5e">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">System going, money up, everything collapses. Huge argument with his mom again, decides to make a change to how he's operating to make her proud. Nancy's health seems to be doing better and she gets engaged to Daniel, finally accepting his love.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="3b6d4439-cccb-48b6-b127-6b0515290ffe" Title="Scenes 1-5" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="c37b3e74-2156-4347-aa53-dcf1ff156453">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">1. Intro</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="5d0689ba-f0a0-42fe-a805-ea91c4ed4eff">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">2. Coming back from school to salon everyday to be with his mom. Doesn't like to go home. Establish context and dynamic</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="6a802bd9-5db7-48c7-810b-6cea1af1ec7c">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">3. Landscaping business</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="42882e2a-5ad8-424d-b980-12da6b1c9590">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">4. Daniel enters, late shift. </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">no</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> people in the salon, she's doing late private hours</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="4a15e40e-7bc6-45eb-bd2e-af4e6fc44588">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">5. Home to shitty apartment more pressure to do school, notices mom coughing and </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">shi</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="4a15e40e-7bc6-45eb-bd2e-af4e6fc44588"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="4a15e40e-7bc6-45eb-bd2e-af4e6fc44588">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="Bold">Scenes 6-10</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a52669fd-fce1-434a-8cab-f3a859270068"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a52669fd-fce1-434a-8cab-f3a859270068">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- rye goes to school and struggles, coach still asking him to try out for football he clearly wants to and has the build but must prioritize</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a52669fd-fce1-434a-8cab-f3a859270068">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">-drives a rather dingy landscaping truck but rolls with windows down so he's still </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">lowk</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> cool</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a52669fd-fce1-434a-8cab-f3a859270068">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- we meet his sweet lil girl who's notably wealthy, she invites him over for dinner</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a52669fd-fce1-434a-8cab-f3a859270068">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- overall well liked guy, but he sneaks off the Daniel's classroom for lunch where they hang then he forced to work on college essay together. Daniel lets it slip that she's sick</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a52669fd-fce1-434a-8cab-f3a859270068">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- come home straight to mow the lawns</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a52669fd-fce1-434a-8cab-f3a859270068">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- starving and mom has cooked stuff for him but she's still in salon</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="a52669fd-fce1-434a-8cab-f3a859270068">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- comes home out of breath and coughing at dinner. They're </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">vibing</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> and then arguing when he finds some </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">typa</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> cancer med?</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="fbf40514-78b1-4fdc-8c93-871320b4104e" Title="notes on making a character:" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="2.22" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="06140e0b-b2db-457f-abd7-db315c5ecb77">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- know them personally, we want audience to say "i know someone like that!"</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="2.22" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="06140e0b-b2db-457f-abd7-db315c5ecb77">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- be able to answer questions about them all. What motivates them? What made them who they are today?</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Id="e575a4cb-f730-4770-9a38-54ad62dea91c" Title="Lily Benitez" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="afe07078-ee7a-40e1-8e54-86107281c124">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">Rye's girlfriend that he ends up robbing</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="28594412-9896-43ae-b638-4ffa2d0467df"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="e95b9d53-977e-48d4-8caf-01649a894e67">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- spunky, popular, academically inclined</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="07ef76e8-3d92-4c57-a0bc-1990abbc25d4">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- wealthy with lawyer dad</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="07ef76e8-3d92-4c57-a0bc-1990abbc25d4">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- doctor mom</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="2c04f3d8-6963-431b-8bd0-4bcd28a47828">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- can't </Text>
+          <Text AdornmentStyle="-1" Font="Arial" RevisionID="0" Size="12" Style="">realte</Text>
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""> to rye in a lot of ways having grown up so differently but genuinely kind and compassionate and wishes she could understand</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="c54b47d4-1b9c-4ed1-8e16-77d37f18c0c3">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- wishes he would open up</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="842001ce-2f88-422f-af07-563fb2c5b400">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- loves him dearly and sees him for his actions past his flaws</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="3.06" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="ea8fa6c5-c619-4ea8-9485-9b2f634bcc62">
+          <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">- talkative</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem EndCap="None" EndPoint="9bc8e9c0-23b8-4f07-9a1a-3a1417372055" FrontCap="None" Id="5561b135-c813-4899-8a2c-a889e3277def" StartPoint="c644a3b7-2369-47f6-82aa-caa16fa5c788" Type="PeerLink"/>
+  </ListItems>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,1250" Type="Beat" Width="24000" ZoomLevel="80.000">
+      <Item Height="220" Id="f7dabeaf-84c9-4d34-93c6-0584f261a42a" Left="60" Top="780" Width="240"/>
+      <Item Height="200" Id="e575a4cb-f730-4770-9a38-54ad62dea91c" Left="340" Top="1500" Width="240"/>
+      <Item Height="460" Id="3b6d4439-cccb-48b6-b127-6b0515290ffe" Left="80" Top="1200" Width="240"/>
+      <Item Height="340" Id="c644a3b7-2369-47f6-82aa-caa16fa5c788" Left="320" Top="60" Width="380"/>
+      <Item Height="220" Id="84a55757-0c04-4f2e-9b17-9c2180362610" Left="40" Top="380" Width="240"/>
+      <Item Height="320" Id="9bc8e9c0-23b8-4f07-9a1a-3a1417372055" Left="20" Top="40" Width="240"/>
+      <Item Height="160" Id="c11d8869-c75a-49e1-bc57-8ca5c3236411" Left="80" Top="620" Width="240"/>
+      <Item Height="140" Id="32c929e7-9082-4358-a332-563a8e341140" Left="80" Top="1020" Width="240"/>
+      <Item Height="180" Id="1a524189-b86b-4ebb-8c31-c1619e3422f5" Left="340" Top="800" Width="320"/>
+      <Item Height="320" Id="f3ad3c72-f4cc-40ed-9214-62a55613c9bc" Left="360" Top="440" Width="240"/>
+      <Item Height="100" Id="d326ea2b-bfd6-4972-a9cc-0fe150f08eb1" Left="360" Top="1060" Width="240"/>
+      <Item Height="280" Id="fbf40514-78b1-4fdc-8c93-871320b4104e" Left="340" Top="1200" Width="180"/>
+      <Item Height="26" Id="5561b135-c813-4899-8a2c-a889e3277def" Left="250" Top="199" Width="80"/>
+    </DisplayBoard>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="1043" ZoomLevel="52.150">
+      <Lanes>
+        <Lane Id="f7afb03f-08f1-44d4-9c40-06826256c840" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="cf114935-a6ee-482c-8935-13747975c358" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+      <Item Id="f7dabeaf-84c9-4d34-93c6-0584f261a42a" LaneId="f7afb03f-08f1-44d4-9c40-06826256c840"/>
+      <Item Id="1a524189-b86b-4ebb-8c31-c1619e3422f5" LaneId="f7afb03f-08f1-44d4-9c40-06826256c840"/>
+      <Item Id="d326ea2b-bfd6-4972-a9cc-0fe150f08eb1" LaneId="cf114935-a6ee-482c-8935-13747975c358"/>
+      <Item Id="32c929e7-9082-4358-a332-563a8e341140" LaneId="cf114935-a6ee-482c-8935-13747975c358"/>
+      <Item Id="c11d8869-c75a-49e1-bc57-8ca5c3236411" LaneId="f7afb03f-08f1-44d4-9c40-06826256c840"/>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes>
+    <ScriptNote Color="#RRRRGGGGBBBB" DateModified="20261005T052748" DateTime="20261005T052722" Id="1" Name="chekhov's doll" Range="14228,14232" RefId="06bd79f5-08e9-4e9d-afe0-8e00a26d5444" Type="" WriterID="8cd6096d-998e-42d3-8f7d-9d57aa35fb56" WriterName="Amy Tran">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="0.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" id="4fe9c482-bb59-435b-a201-903d6cf095ce">
+        <Text AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style="">later, rye will start feeling up the weird dolls to subtly take then he ends up just snatching them all</Text>
+      </Paragraph>
+    </ScriptNote>
+  </ScriptNotes>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="e4cc0e17-e966-404f-bacd-ec32b98f478a"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Hide" StructureLines="Hide"/>
+
+</FinalDraft>
